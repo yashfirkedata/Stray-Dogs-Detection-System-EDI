@@ -54,7 +54,7 @@ https://drive.google.com/file/d/1_gsKTzctbe6WZ5oQlpIWW8jy6xXDVRsF/view?usp=shari
    cd <path_to_your_fav_directory>
   ```
    ```cmd
-   https://github.com/yashfirkedata/Stray-Dogs-Detection-System-EDI.git
+   git clone https://github.com/yashfirkedata/Stray-Dogs-Detection-System-EDI.git
     ```
     ```cmd
     cd <path_to_the_cloned_repository>
